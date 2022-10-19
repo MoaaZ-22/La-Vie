@@ -3,13 +3,13 @@
 ## Getting Started
   
   Login & Register With Api, 
-  Cart With SharedPreferences, 
+  Cart With Sqflite, 
   Delete and Update Item In Cart, 
   Search,
   Recent Search With SharedPreferences, 
   Update Profile,  
   Qr Code Scanner,  
-  Get All Posts And Add Your Post and
+  Get All Posts, Add Your Post and
   Base64 Image
   
 ### Vedio:
