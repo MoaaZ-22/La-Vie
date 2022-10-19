@@ -2,14 +2,14 @@
 
 ## Getting Started
   
-  Login & Register With Api 
-  Cart With SharedPreferences 
-  Delete and Update Item In Cart
-  Search 
-  Recent Search With SharedPreferences
-  Update Profile 
-  Qr Code Scanner 
-  Get All Posts And Add Your Post 
+  Login & Register With Api, 
+  Cart With SharedPreferences, 
+  Delete and Update Item In Cart, 
+  Search,
+  Recent Search With SharedPreferences, 
+  Update Profile,  
+  Qr Code Scanner,  
+  Get All Posts And Add Your Post and
   Base64 Image
   
 ### Vedio:
